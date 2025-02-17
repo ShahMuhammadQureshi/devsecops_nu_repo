@@ -46,7 +46,7 @@ jobs:
       - run:
           name: Deploying the app
           command: |
-            echo "Deploying to production...
+            echo "Deploying to production..."
             # Add deployment commands here (e.g., AWS, Firebase, Heroku, etc.)
 
 workflows:
